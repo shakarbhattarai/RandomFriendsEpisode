@@ -10,9 +10,9 @@ Choose and Play random Friends Episode From Command Line
  
 ## Note:
 1. Requires:
-	a) Python 2.7 (Pre-installed on Linux Systems)
-	b) VLC Media Player (Generally Pre-installed on most Linux Distributions)
-	c) Linux (Because it's my lobster)
+	- Python 2.7 (Pre-installed on Linux Systems)
+	- VLC Media Player (Generally Pre-installed on most Linux Distributions)
+	- Linux (Because it's my lobster)
 
 2. Enhancements are more than welcome.
 
