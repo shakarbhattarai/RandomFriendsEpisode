@@ -28,7 +28,7 @@ def getRandomFolderPath():
 folderpath=getRandomFolderPath()
 temp=random.choice(os.listdir(".") )
 
-filters=[".db",".jpg",".jpeg",".txt",".srt",".SRT",".TXT","README"]
+filters=[".db",".jpg",".png",".tiff",".jpeg",".txt",".srt",".SRT",".TXT","README"]
 
 while (any([x in temp for x in filters])):
 	temp=random.choice(os.listdir(".") )
